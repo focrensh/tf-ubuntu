@@ -1,0 +1,7 @@
+aws_profile = "my_cred_profile"
+prefix = "demo"
+ub_hostname = "demo.hostname"
+beacon_token = "token"
+rdomain = "demo.local."
+tlskey = "demo.local-key"
+tlscert = "demo.local-cert"
